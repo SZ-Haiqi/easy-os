@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"log.h": "c",
+			"os_event_customization.h": "c",
+			"os_event.h": "c",
+			"os_type.h": "c"
+		},
+		"github.copilot.chat.followUps": "never",
+		"github.copilot.chat.localeOverride": "zh-CN",
+		"github.copilot.chat.copilotDebugCommand.enabled": false,
+		"github.copilot.chat.reviewSelection.enabled": false,
+		"github.copilot.editor.enableCodeActions": false,
+		"github.copilot.renameSuggestions.triggerAutomatically": false
+	}
+}

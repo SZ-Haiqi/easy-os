@@ -1,0 +1,25 @@
+{
+        "folders": [
+                {
+                        "path": "E:/s_Airoha/mcu"
+                },
+                {
+                        "path": "E:/s_Airoha/mcu/config"
+                },
+                {
+                        "path": "E:/s_Airoha/mcu/driver"
+                },
+                {
+                        "path": "E:/s_Airoha/mcu/kernel"
+                },
+                {
+                        "path": "E:/s_Airoha/mcu/middleware"
+                },
+                {
+                        "path": "E:/s_Airoha/mcu/prebuilt"
+                },
+                {
+                        "path": "E:/s_Airoha/mcu/project"
+                }
+        ],
+}
